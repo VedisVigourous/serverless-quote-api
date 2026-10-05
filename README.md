@@ -81,8 +81,8 @@ I would love to connect with the GDG on Campus community at ABES Engineering Col
 
 | Platform | Link |
 | --- | --- |
-| GitHub | [Add your GitHub profile](https://github.com/vedisvigourous) |
-| LinkedIn | [Add your LinkedIn profile](https://linkedin.com/in/vadanta) |
+| GitHub | [VedisVigourous](https://github.com/vedisvigourous) |
+| LinkedIn | [Vadanta Kumar Chauhaan](https://linkedin.com/in/vadanta) |
 | Email | `vadanta592007@hotmail.com` |
 
 ---
